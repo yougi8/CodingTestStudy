@@ -2,8 +2,8 @@
 📗 이것이 취업을 위한 코딩 테스트다 with 파이썬
 
 ## 🙋🏻‍♀️ Member
-* **JiYeon You**([@yougi8](https://github.com/yougi8))   
-* **SeoJin Yoon**([@jinii9](https://github.com/jinii9))   
+* **Jiyeon You**([@yougi8](https://github.com/yougi8))   
+* **Seojin Yoon**([@jinii9](https://github.com/jinii9))   
 
 ## 🔆 PLAN
 ### PART 02
