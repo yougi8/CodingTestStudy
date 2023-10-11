@@ -9,6 +9,8 @@
 ### PART 02
 ### CHAPTER 03. 그리디
 #### Q. 큰 수의 법칙 (Date : Oct.11)
+> [Jiyeon](https://github.com/yougi8/CodingTestStudy/blob/jiyeon/week1/ch3_2_ndb.py)
+
 > Review(Date : Oct.12)   
 >> Jiyeon   
 >> Seojin    
