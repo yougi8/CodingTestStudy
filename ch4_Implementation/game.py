@@ -9,7 +9,7 @@ def turn_left(direction):
     return direction
 
 def move(x, y, direction, maps):
-    total = 0
+    total = 1 # 시작포인트는 이미 방문한 거니까 방문횟수 저장 변수는 1부터 시작
     ## 방문 기록하는 배열
     visited = [[0] * n for _ in range(m)]
     visited[x][y] = 1  # 시작 위치는 방문처리
@@ -21,11 +21,12 @@ def move(x, y, direction, maps):
     temp = 0 # 회전하는 횟수 저장(방향이 다시 제자리로 돌아왔는지 체크)
 
     ## 더이상 갈 곳이 없을 때(네 방향이 모두 가본 곳이거나 바다여서 못갈 때, 뒤쪽방향까지 바다인 상황)까지 게임 진행
-    while(True):
+    while True:
         direction = turn_left(direction)
         temp += 1
 
         nx, ny = x + dx[direction], y + dy[direction]
+
         ## 전진할 곳이 이미 방문한 곳일 때 : 다시 turn함
         if temp!= 4 and visited[nx][ny] == 1:
             continue
@@ -39,9 +40,9 @@ def move(x, y, direction, maps):
         ## 전진할 곳이 바다일 때
         else:
             nx2, ny2 = x+dx[direction-2], y+dy[direction-2]
-            ## 방향이 다시 제자리로 왔는데 뒤로가면 바다인 경우 -> 종료
+            ## 방향이 다시 제자리로 왔는데 뒤로가면 바다이거나 이미 방문했을 경우 -> 종료
             if temp == 4:
-                if maps[nx2][ny2] == 1:
+                if maps[nx2][ny2] == 1 or visited[nx2][ny2] == 1:
                     break
                 else:
                     print('백!')
