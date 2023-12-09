@@ -7,14 +7,14 @@ def bfs(graph, start, visitied):
     # 현재 노드를 방문 처리
     visitied[start] = True
     # 큐가 빌 때까지 반복
-    while queue:
+    while queue: ## 큐가 비어있지 않는 동 계속 반복
         # 큐에서 하나의 원소를 뽑아 출력
-        v = queue.popleft()
+        v = queue.popleft() ## 현재 방문하고 있는 노드
         print(v, end=' ')
         # 해당 원소와 연결된, 아직 방문하지 않은 원소들을 큐에 삽입
-        for i in graph[v]:
+        for i in graph[v]: ## 현재 방문하고 있는 노드에 인접한 노드들을 순회
             if not visitied[i]:
-                queue.append(i)
+                queue.append(i) ## 이 노드는 나중에 방문할 예정
                 visitied[i] = True
 
 # 각 노드가 연결된 정보를 리스트 자료형으로 표현(2차원 리스트)
