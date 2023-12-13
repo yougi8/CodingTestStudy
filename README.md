@@ -2,6 +2,7 @@
 
 ### 📗 이것이 취업을 위한 코딩 테스트다 with 파이썬
 - [GitHub](https://github.com/ndb796/python-for-coding-test)
+- [Code](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/README.md)
 
 ### 💻 BaekJoon
 - [Home Page](https://www.acmicpc.net/)
