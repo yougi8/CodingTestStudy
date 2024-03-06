@@ -1,5 +1,4 @@
 ## [🌐 Baekjoon](https://www.acmicpc.net/)     
----
 ### 📍 BRONZE (0)
 ### 📍SILVER (6)
 - 1️⃣ 7562 나이트의 이동 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py)
