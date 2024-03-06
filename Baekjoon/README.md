@@ -1,0 +1,10 @@
+## [🌐 Baekjoon](https://www.acmicpc.net/)     
+---
+### 📍 BRONZE (0)
+### 📍SILVER (2)
+- 1️⃣ 7562 나이트의 이동 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py)
+- 2️⃣ 1012 유기농 양배추 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py)
+### 📍GOLD (0)
+### 📍PLATINUM (0)
+### 📍DIAMOND (0)
+### 📍RUBY (0)
