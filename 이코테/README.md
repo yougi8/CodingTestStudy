@@ -100,3 +100,4 @@
 ```
  - **개미전사** : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/ch8_DP/dp_ant.py) / [예제코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.py)
  - **바닥공사** : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/ch8_DP/dp_floor.py) / [예제코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.py)
+ - **효율적인 화페구성** : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/ch8_DP/dp_coin.py) / [예제코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/8.py)
