@@ -98,3 +98,5 @@
      # 다이나믹 프로그래밍 문제에 접근하는 방법  
        -> 먼저 그리디. 구현, 완전 탐색 등의 아이디어로 문제를 해결할 수 있는 지 검토
 ```
+ - **개미전사** : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/ch8_DP/dp_ant.py) / [예제코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/6.py)
+ - **바닥공사** : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/ch8_DP/dp_floor.py) / [예제코드](https://github.com/ndb796/python-for-coding-test/blob/master/8/7.py)
