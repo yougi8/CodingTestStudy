@@ -3,52 +3,54 @@
 ---
 
 ## 🎖️ Level 🎖️
-### 📍BRONZE (0)
-
-### 📍SILVER (11)
-- 1️⃣ 7562 나이트의 이동 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py)
-- 1️⃣ 1697 숨바꼭질 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_hideAndSeek.py)
-- 1️⃣ 5014 스타트링크 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_startLink.py)
-- 2️⃣ 1012 유기농 양배추 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py)
-- 3️⃣ 1463 1로만들기 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py)
-- 3️⃣ 2193 이친수 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_pinary.py)
-- 4️⃣ 11508 2+1 할인 문제 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py)
-- 4️⃣ 2217 로프 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/rope.py)
-- 5️⃣ 2828 사과담기 게임 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/apple.py)
-- 5️⃣ 14916 거스름돈 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py)
-- 5️⃣ 9655 돌 게임 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stone.py)
+#### 📍SILVER
+- 5️⃣ 2828 사과담기 게임 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/apple.py) / [문제](https://www.acmicpc.net/problem/2828)
+- 5️⃣ 14916 거스름돈 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py) / [문제](https://www.acmicpc.net/problem/14916)
+- 5️⃣ 9655 돌 게임 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stone.py) / [문제](https://www.acmicpc.net/problem/9655)   
   
-### 📍GOLD (2)
-- 5️⃣ 13164 행복유치원 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py)
-- 5️⃣ 7576 토마토 : [Python코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py)
-
-### 📍PLATINUM (0)
-
-### 📍DIAMOND (0)
-
-### 📍RUBY (0)
-
+- 4️⃣ 11508 2+1 할인 문제 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py) / [문제](https://www.acmicpc.net/problem/11508)
+- 4️⃣ 2217 로프 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/rope.py) / [문제](https://www.acmicpc.net/problem/2217)   
+  
+- 3️⃣ 1463 1로만들기 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py) / [문제](https://www.acmicpc.net/problem/1463)
+- 3️⃣ 2193 이친수 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_pinary.py) / [문제](https://www.acmicpc.net/problem/2193)
+- 3️⃣ 2579 계단 오르기 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stairs.py) / [문제](https://www.acmicpc.net/problem/2579)   
+  
+- 2️⃣ 1012 유기농 양배추 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py) / [문제](https://www.acmicpc.net/problem/1012)
+- 2️⃣ 18352 특정 거리의 도시 찾기 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/13_DFS%3ABFS/test_15_distanceCity.py) / [문제](https://www.acmicpc.net/problem/18352)   
+  
+- 1️⃣ 7562 나이트의 이동 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py) / [문제](https://www.acmicpc.net/problem/7562)
+- 1️⃣ 1697 숨바꼭질 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_hideAndSeek.py) / [문제](https://www.acmicpc.net/problem/1697)
+- 1️⃣ 5014 스타트링크 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_startLink.py) / [문제](https://www.acmicpc.net/problem/5014)
+#### 📍GOLD
+- 4️⃣ 1715 카드 정렬하기 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/14_%EC%A0%95%EB%A0%AC/test_26_card.py) / [문제](https://www.acmicpc.net/problem/1715)   
+  
+- 5️⃣ 13164 행복유치원 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py) / [문제](https://www.acmicpc.net/problem/13164)
+- 5️⃣ 7576 토마토 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py) / [문제](https://www.acmicpc.net/problem/7576)
 ---
 
 ## 🗂️ Category 🗂️
-### 🌱 Greedy (5)
-- S5️⃣ 14916 거스름돈 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py)
-- S5️⃣ 2828 사과담기 게임 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/apple.py)
-- S4️⃣ 11508 2+1 할인 문제 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py)
-- S4️⃣ 2217 로프 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/rope.py)
-- G5️⃣ 13164 행복유치원 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py)
+### 🌱 Greedy
+- **S5️⃣** 14916 거스름돈 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py) / [문제](https://www.acmicpc.net/problem/14916)
+- **S5️⃣** 2828 사과담기 게임 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/apple.py) / [문제](https://www.acmicpc.net/problem/2828)
+- **S4️⃣** 11508 2+1 할인 문제 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py) / [문제](https://www.acmicpc.net/problem/11508)
+- **S4️⃣** 2217 로프 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/rope.py) / [문제](https://www.acmicpc.net/problem/2217)  
+- **G5️⃣** 13164 행복유치원 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py) / [문제](https://www.acmicpc.net/problem/13164)
 
-### 🌱 DFS (1)
-- S2️⃣ 1012 유기농 양배추 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py)
+### 🌱 DFS
+- **S2️⃣** 1012 유기농 양배추 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py) / [문제](https://www.acmicpc.net/problem/1012)
 
-### 🌱 BFS (4)
-- S1️⃣ 7562 나이트의 이동 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py)
-- S1️⃣ 1697 숨바꼭질 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_hideAndSeek.py)
-- S1️⃣ 5014 스타트링크 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_startLink.py)
-- G5️⃣ 7576 토마토 : [Python코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py)
+### 🌱 BFS
+- **S1️⃣** 7562 나이트의 이동 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py) / [문제](https://www.acmicpc.net/problem/7562)
+- **S1️⃣** 1697 숨바꼭질 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_hideAndSeek.py) / [문제](https://www.acmicpc.net/problem/1697)
+- **S1️⃣** 5014 스타트링크 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_startLink.py) / [문제](https://www.acmicpc.net/problem/5014)
+- **G5️⃣** 7576 토마토 : [내](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py) / [문제](https://www.acmicpc.net/problem/7576)
 
-### 🌱 Dynamic Programming (3)
-- S3️⃣ 1463 1로만들기 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py)
-- S5️⃣ 14916 거스름돈 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py)
-- S5️⃣ 9655 돌 게임 : [Python 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stone.py)
+### 🌱 Sort
+- **G4️⃣** 1715 카드 정렬하기 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/14_%EC%A0%95%EB%A0%AC/test_26_card.py) / [문제](https://www.acmicpc.net/problem/1715)
+
+### 🌱 Dynamic Programming
+- **S3️⃣** 1463 1로만들기 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py) / [문제](https://www.acmicpc.net/problem/1463)
+- **S3️⃣** 2193 이친수 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_pinary.py) / [문제](https://www.acmicpc.net/problem/2193)
+- **S5️⃣** 14916 거스름돈 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py) / [문제](https://www.acmicpc.net/problem/14916)
+- **S5️⃣** 9655 돌 게임 : [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stone.py) / [문제](https://www.acmicpc.net/problem/9655) 
 
