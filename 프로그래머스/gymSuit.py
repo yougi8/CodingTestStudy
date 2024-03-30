@@ -1,5 +1,4 @@
-import sys
-
+## 프로그래머스 - 체육복 (99클럽 미들러 문제) level 1
 
 def solution(n, lost, reserve):
     answer = 0
