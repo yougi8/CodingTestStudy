@@ -100,9 +100,12 @@
 - [콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/collatz.py)
 - [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/hamburger.py)
 - [둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/twoSecret.py)
+- [가운데 글자 가져오기](https://school.programmers.co.kr/learn/courses/30/lessons/12903) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/getMid.py)
 
 #### 🐇 Level 2
 - [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/magicElevator.py)
+- [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/tournament.py)
+- [기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/functionCreate.py)
 
 #### 🦅 Level 3
 - [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914) - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/jump.py)
