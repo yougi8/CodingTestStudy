@@ -88,7 +88,7 @@
  <summary><b>📍GOLD</b></summary>
  <div markdown="1">
   
-- 3 16236 아기상어 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/babyShark.py) / [문제](https://www.acmicpc.net/problem/16236)
+- 3️⃣ 16236 아기상어 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/babyShark.py) / [문제](https://www.acmicpc.net/problem/16236)
 - 4️⃣ 1715 카드 정렬하기 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/14_%EC%A0%95%EB%A0%AC/test_26_card.py) / [문제](https://www.acmicpc.net/problem/1715)   
 - 5️⃣ 13164 행복유치원 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py) / [문제](https://www.acmicpc.net/problem/13164)
 - 5️⃣ 7576 토마토 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py) / [문제](https://www.acmicpc.net/problem/7576)
