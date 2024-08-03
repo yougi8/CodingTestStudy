@@ -51,7 +51,7 @@
  <summary><b>🐥 Level 1</b></summary>
  <div markdown="1">
   
-- 두 정수의 합- [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12912) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/Practice/int_sum.py)
+- 두 정수의 합- [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12912) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/int_sum.py)
 - 직사각형 별 찍기- [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12969) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/rectangleStar.py)
 - 핸드폰 번호 가리기- [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12948) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/phoneNumber.py)
 - 부족한 금액 계산하기- [문제](https://school.programmers.co.kr/learn/courses/30/lessons/82612) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lessCost.py)
