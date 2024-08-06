@@ -85,39 +85,62 @@
 
 ### [💻 BaekJoon](https://www.acmicpc.net/)
 <details>
- <summary><b>📍GOLD</b></summary>
+ <summary><b>📍GOLD</summary>
  <div markdown="1">
   
-- 3️⃣ 16236 아기상어 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/babyShark.py) / [문제](https://www.acmicpc.net/problem/16236)
-- 4️⃣ 1715 카드 정렬하기 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/14_%EC%A0%95%EB%A0%AC/test_26_card.py) / [문제](https://www.acmicpc.net/problem/1715)   
-- 5️⃣ 13164 행복유치원 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py) / [문제](https://www.acmicpc.net/problem/13164)
-- 5️⃣ 7576 토마토 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py) / [문제](https://www.acmicpc.net/problem/7576)
-- 5️⃣ 21608 상어 초등학교 - [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.py) / [문제](https://www.acmicpc.net/problem/21608)
- </div>
+- Lv.3️⃣  
+  - 16236 아기상어 - [문제](https://www.acmicpc.net/problem/16236) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/babyShark.py)   
+
+- Lv.4️⃣
+  - 1715 카드 정렬하기 - [문제](https://www.acmicpc.net/problem/1715) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/14_%EC%A0%95%EB%A0%AC/test_26_card.py)  
+- Lv.5️⃣
+  - 13164 행복유치원 - [문제](https://www.acmicpc.net/problem/13164) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py)   
+  - 7576 토마토 - [문제](https://www.acmicpc.net/problem/7576) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py)  
+  - 21608 상어 초등학교 - [문제](https://www.acmicpc.net/problem/21608) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.py)  
+  </div>
 </details>
 
 <details>
  <summary><b>📍SILVER</b></summary>
  <div markdown="1">
+
+- Lv.1️⃣
+  - 7562 나이트의 이동 - [문제](https://www.acmicpc.net/problem/7562) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py)   
+  - 1697 숨바꼭질 - [문제](https://www.acmicpc.net/problem/1697) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_hideAndSeek.py)  
+  - 5014 스타트링크 - [문제](https://www.acmicpc.net/problem/5014) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_startLink.py)
+
+- Lv.2️⃣
+  - 1012 유기농 양배추 - [문제](https://www.acmicpc.net/problem/1012) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py)   
+  - 18352 특정 거리의 도시 찾기 - [문제](https://www.acmicpc.net/problem/18352) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/13_DFS%3ABFS/test_15_distanceCity.py)
   
-- 5️⃣ 2828 사과담기 게임 - [문제](https://www.acmicpc.net/problem/2828) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/apple.py)
-- 5️⃣ 14916 거스름돈 - [문제](https://www.acmicpc.net/problem/14916) [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py)
-- 5️⃣ 9655 돌 게임 - [문제](https://www.acmicpc.net/problem/9655) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stone.py)
+- Lv.3️⃣
+  - 1463 1로만들기 - [문제](https://www.acmicpc.net/problem/1463) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py)  
+  - 2193 이친수 - [문제](https://www.acmicpc.net/problem/2193) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_pinary.py)  
+  - 2579 계단 오르기 - [문제](https://www.acmicpc.net/problem/2579) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stairs.py)
   
-- 4️⃣ 11508 2+1 할인 문제 - [문제](https://www.acmicpc.net/problem/11508) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py)
-- 4️⃣ 2217 로프 - [문제](https://www.acmicpc.net/problem/2217) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/rope.py)  
+- Lv.4️⃣
+  - 11508 2+1 할인 문제 - [문제](https://www.acmicpc.net/problem/11508) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py)  
+  - 2217 로프 - [문제](https://www.acmicpc.net/problem/2217) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/rope.py)
+   
+- Lv.5️⃣
+  - 2828 사과담기 게임 - [문제](https://www.acmicpc.net/problem/2828) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/apple.py)  
+  - 14916 거스름돈 - [문제](https://www.acmicpc.net/problem/14916) [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py)  
+  - 9655 돌 게임 - [문제](https://www.acmicpc.net/problem/9655) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stone.py)   
   
-- 3️⃣ 1463 1로만들기 - [문제](https://www.acmicpc.net/problem/1463) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py)
-- 3️⃣ 2193 이친수 - [문제](https://www.acmicpc.net/problem/2193) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_pinary.py)
-- 3️⃣ 2579 계단 오르기 - [문제](https://www.acmicpc.net/problem/2579) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stairs.py)    
+  </div>
+</details>
+
+<details>
+ <summary><b>📍BRONZE</summary>
+ <div markdown="1">
   
-- 2️⃣ 1012 유기농 양배추 - [문제](https://www.acmicpc.net/problem/1012) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py) 
-- 2️⃣ 18352 특정 거리의 도시 찾기 - [문제](https://www.acmicpc.net/problem/18352) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/13_DFS%3ABFS/test_15_distanceCity.py)    
+- Lv.2️⃣
+  - 2292 벌집 - [문제](https://www.acmicpc.net/problem/2292) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EB%B2%8C%EC%A7%91.py)
   
-- 1️⃣ 7562 나이트의 이동 - [문제](https://www.acmicpc.net/problem/7562) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py) 
-- 1️⃣ 1697 숨바꼭질 - [문제](https://www.acmicpc.net/problem/1697) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_hideAndSeek.py) 
-- 1️⃣ 5014 스타트링크 - [문제](https://www.acmicpc.net/problem/5014) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_startLink.py) 
-</div>
+- Lv.3️⃣
+  - 23971 zoac 4 - [문제](https://www.acmicpc.net/problem/23971) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/zoac4.py)   
+  - 5073 삼각형과 세 변 - [문제](https://www.acmicpc.net/problem/5073) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%82%BC%EA%B0%81%ED%98%95%EA%B3%BC%EC%84%B8%EB%B3%80.py)
+  </div>
 </details>
 
 ---   
