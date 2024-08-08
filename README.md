@@ -18,6 +18,8 @@
 - 자물쇠와 열쇠 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/60059) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.py)
 - 가장 긴 팰린드롬 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12904) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py)
 - 단속 카메라 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42884) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py)
+- 이중우선순위큐 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)
+- 베스트앨범 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579)  [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py)
   
   </div>
  </details>
@@ -43,6 +45,7 @@
 - 디펜스 게임 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84.py)
 - 의상 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%EC%8A%B5/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC(%ED%95%B4%EC%8B%9C%EB%A7%B5)/%EC%9D%98%EC%83%81.py)
 - 전화번호 목록 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%EC%8A%B5/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC(%ED%95%B4%EC%8B%9C%EB%A7%B5)/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EB%AA%A9%EB%A1%9D.py)
+- 할인행사 - [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131127)  [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py)
 
  </div>
  </details>
@@ -112,11 +115,14 @@
 - Lv.2️⃣
   - 1012 유기농 양배추 - [문제](https://www.acmicpc.net/problem/1012) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py)   
   - 18352 특정 거리의 도시 찾기 - [문제](https://www.acmicpc.net/problem/18352) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/13_DFS%3ABFS/test_15_distanceCity.py)
+  - 1927 최소힙 - [문제](https://www.acmicpc.net/problem/1927) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%B5%9C%EC%86%8C%ED%9E%99.py)
+  - 11501 주식 - [문제](https://www.acmicpc.net/problem/11501)  [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%A3%BC%EC%8B%9D.py)
   
 - Lv.3️⃣
   - 1463 1로만들기 - [문제](https://www.acmicpc.net/problem/1463) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py)  
   - 2193 이친수 - [문제](https://www.acmicpc.net/problem/2193) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_pinary.py)  
   - 2579 계단 오르기 - [문제](https://www.acmicpc.net/problem/2579) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stairs.py)
+  - 20310 타노스 - [문제](https://www.acmicpc.net/problem/20310)  [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%ED%83%80%EB%85%B8%EC%8A%A4.py)
   
 - Lv.4️⃣
   - 11508 2+1 할인 문제 - [문제](https://www.acmicpc.net/problem/11508) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py)  
