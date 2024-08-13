@@ -1,4 +1,111 @@
-## 🍄 알고리즘 공부 for 코딩테스트 (Python)
+## 🍄 Algorithm Study (Python)
+### 유형별 문제 정리
+<details>
+<summary><b>1. 그리디 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-------------------:|:-------------:|:-----------:|:----:|:-------:|:-------:|:--------:|
+| 단속 카메라 | 그리디 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | 🔥 |
+
+</details>
+
+<details>
+<summary><b>2. 구현 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 최고의 집합 | 구현 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 풀이 | 🔥 |
+| 셔틀버스 | 구현+문자열 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.py) | 🔥 |
+| 자물쇠와 열쇠 | 구현+완전탐색 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.py) | 🔥 |
+
+</details>
+
+<details>
+<summary><b>3. DFS/BFS </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 가장 먼 노드 | BFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 풀이 | 🔥 |
+| 여행 경로 | DFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 풀이 | 🔥 |
+| 네트워크 | DFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/network.py) | 🔥 |
+| 부대복귀 | BFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132266) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80.py) | 🔥 |
+
+</details>
+
+<details>
+<summary><b>4. 힙 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 이중우선순위큐 | 힙 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py) | 🔥 |
+
+</details>
+
+<details>
+<summary><b>5. 해시 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 베스트앨범 | 해시 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) | 🔥 |
+
+</details>
+
+<details>
+<summary><b>6. 탐색 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 합승 택시 요금 | 플로이드 워셜 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.py) | 🔥 |
+
+</details>
+
+<details>
+<summary><b>7. 백트래킹 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+||
+</details>
+
+<details>
+<summary><b>8. 재귀 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+||
+</details>
+
+<details>
+<summary><b>9. 문자열 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 가장 긴 팰린드롬 | 문자열 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | 🔥 |
+
+</details>
+
+<details>
+<summary><b>10. DP </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 멀리 뛰기 | DP | 프로그래머스 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [풀이](https://github.com/yougi8/CodingTestStudy/commit/477a93dddc993cc220eb88348cb6a8576ffe78c0) | 🔥 |
+| 풍선 터트리기 | DP | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68646) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%92%8D%EC%84%A0%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.py) | 🔥 |
+</details>
+
+<details>
+<summary><b>11. 정렬 </b></summary>
+
+| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 여행 경로 | DFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 풀이 | 🔥 |
+
+</details>
+
+
+======================================
+### 사이트별 문제 정리
+
 ### [🌐 프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent)
  <details>
   <summary><b>🦅 Level 3</b></summary>
