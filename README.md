@@ -1,110 +1,184 @@
 ## 🍄 Algorithm Study (Python)
-### 유형별 문제 정리
+### 📍 유형별 문제 정리
 <details>
 <summary><b>1. 그리디 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-------------------:|:-------------:|:-----------:|:----:|:-------:|:-------:|:--------:|
-| 단속 카메라 | 그리디 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | 🔥 |
-
+| 프로그래머스 | 단속 카메라 | 그리디 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | 🔥 |
+| | 마법의 엘리베이터 | 그리디, 수학 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/magicElevator.py) | 🔥 | 
+| | 조이스틱 | 그리디 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py) | 🔥 |
+| | 체육복 | 연습문제 | lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/gymSuit.py) | 🔥 | 
+| 백준 | 행복 유치원 | 그리디 | Gold5 | [문제](https://www.acmicpc.net/problem/13164) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py) | 🔥 | 
+| | 주식 | 그리디 | Silver2 | [문제](https://www.acmicpc.net/problem/11501) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%A3%BC%EC%8B%9D.py) | 🔥 | 
+| | 2+1 세일 | 그리디 | Silver4 | [문제](https://www.acmicpc.net/problem/11508) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/buy2get1.py) | 🔥 |
+| | 로프 | 그리디 | Silver4 | [문제](https://www.acmicpc.net/problem/2217) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/rope.py) | 🔥 | 
+| | 사과 담기 게임 | Silver5 | [문제](https://www.acmicpc.net/problem/2828) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/apple.py) | 🔥 |
+| | 거스름돈 | Silver5 | [문제](https://www.acmicpc.net/problem/14916) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/change.py) | 🔥 | 
 </details>
 
 <details>
 <summary><b>2. 구현 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
-|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 최고의 집합 | 구현 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 풀이 | 🔥 |
-| 셔틀버스 | 구현+문자열 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.py) | 🔥 |
-| 자물쇠와 열쇠 | 구현+완전탐색 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.py) | 🔥 |
+| 출처 | 문제 이름 | 세부 유형  | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:---------:|:-----------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 프로그래머스 | 최고의 집합 | 구현 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12938) | 풀이 | 🔥 |
+| | 셔틀버스 | 구현+문자열 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.py) | 🔥 |
+| | 자물쇠와 열쇠 | 구현+완전탐색 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/60059) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0.py) | 🔥 |
+| | 풍선 터트리기 | 구현,수학 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68646) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%92%8D%EC%84%A0%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.py) | 🔥 |  
+| | 인사고과 | 구현 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.py) | 🔥 | 
+| | 예상 대진표 | 구현 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12985) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/tournament.py) | 🔥 |
+| | 땅따먹기 | 구현 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12913) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0.py) | 🔥 |
+| | 혼자 놀기의 달인 | 구현 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%98%BC%EC%9E%90%EB%86%80%EA%B8%B0%EC%9D%98%EB%8B%AC%EC%9D%B8.py) | 🔥 |
+| | 광물 캐기 | 구현 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EA%B4%91%EB%AC%BC%EC%BA%90%EA%B8%B0.py) | 🔥 | 
+| | 연속된 부분 수열의 합 | 구현, 투포인터 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%97%B0%EC%86%8D%EB%90%9C%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py) | 🔥 | 
+| | 두 정수 사이의 합 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/int_sum.py) | 🔥 |
+| | 직사각형 별찍기 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12969) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/rectangleStar.py) | 🔥 | 
+| | 부족한 금액 계산하기 | 연습문제, 수학 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lessCost.py) | 🔥 |
+| | 바탕화면 정리하기 | 연습문제, 최단거리 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/window.py) | 🔥 | 
+| | 콜라츠 추측 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/collatz.py) | 🔥 |
+| | 카페 확장 | 구현 | pccp | [문제](https://school.programmers.co.kr/learn/courses/15009/lessons/121689) | 풀이 | 🔥 |
+| | 실습용 로봇 | 구현 | pccp | [문제](https://school.programmers.co.kr/learn/courses/15009/lessons/121687) | 풀이 | 🔥 | 
+| 백준 | 상어 초등학교 | 구현 | Gold5 | [문제](https://www.acmicpc.net/problem/21608) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90.py) | 🔥 | 
+| | 벌집 | 구현, 수학 | Bronze2 | [문제](https://www.acmicpc.net/problem/2292) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EB%B2%8C%EC%A7%91.py) | 🔥 | 
+| | ZOAC4 | 구현, 수학 | Bronze3 | [문제](https://www.acmicpc.net/problem/23971) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/zoac4.py) | 🔥 |
+| | 삼각형과 세 변 | 구현, 수학 | Bronze3 | [문제](https://www.acmicpc.net/problem/5073) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%82%BC%EA%B0%81%ED%98%95%EA%B3%BC%EC%84%B8%EB%B3%80.py) | 🔥 |
 
 </details>
 
 <details>
 <summary><b>3. DFS/BFS </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 가장 먼 노드 | BFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 풀이 | 🔥 |
-| 여행 경로 | DFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 풀이 | 🔥 |
-| 네트워크 | DFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/network.py) | 🔥 |
-| 부대복귀 | BFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132266) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80.py) | 🔥 |
-
+| 프로그래머스 | 가장 먼 노드 | BFS | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | 풀이 | 🔥 |
+| | 여행 경로 | DFS | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 풀이 | 🔥 |
+| | 네트워크 | DFS | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/network.py) | 🔥 |
+| | 부대복귀 | BFS | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/132266) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80.py) | 🔥 |
+| | 순위 | BFS | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/49191) | 풀이 | 🔥 | 
+| | 피로도 | | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 풀이 | 🔥 | 
+| | 리코쳇 로봇 | BFS | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/169199) | 풀이 | 🔥 |
+| | 거리두기 확인하기 | DFS | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/81302) | 풀이 | 🔥 |
+| | 석유시추 | DFS | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131130) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%84%9D%EC%9C%A0%EC%8B%9C%EC%B6%94.py) | 🔥 | 
+| | 보물지도 | | pccp | [문제](https://school.programmers.co.kr/learn/courses/15009/lessons/121690) | 풀이 | 🔥 |
+| 백준 | 아기 상어 | BFS | Gold3 | [문제](https://www.acmicpc.net/problem/16236) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/babyShark.py) | 🔥 | 
+| | 토마토 | BFS | Gold5 | [문제](https://www.acmicpc.net/problem/7576) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_tomato.py) | 🔥 | 
+| | 나이트의 이동 | BFS | Silver1 | [문제](https://www.acmicpc.net/problem/7562) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/knight_move.py) | 🔥 |
+| | 숨바꼭질 | BFS | Silver1 | [문제](https://www.acmicpc.net/problem/1697) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_hideAndSeek.py) | 🔥 |
+| | 스타트링크 | BFS | Silver1 | [문제](https://www.acmicpc.net/problem/5014) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/bfs_startLink.py) | 🔥 |
+| | 쉬운 최단거리 | BFS | Silver1 | [문제](https://www.acmicpc.net/problem/14940) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%89%AC%EC%9A%B4%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC.py) | 🔥 | 
+| | 유기농 배추 | DFS | Silver2 | [문제](https://www.acmicpc.net/problem/1012) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py) | 🔥 |
+| | 특정 거리의 도시 찾기 | BFS | Silver2 | [문제](https://www.acmicpc.net/problem/18352) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/13_DFS_BFS/test_15_distanceCity.py) | 🔥 |
 </details>
 
 <details>
 <summary><b>4. 힙 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 이중우선순위큐 | 힙 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py) | 🔥 |
-
+| 프로그래머스 | 이중우선순위큐 | 힙 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py) | 🔥 |
+| | 디펜스 게임 | 힙 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142085) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84.py) | 🔥 |
+| | 더 맵게 | 힙 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8D%94%EB%A7%B5%EA%B2%8C.py) | 🔥 |  
+| | 운영체제 | 힙 | pccp | [문제](https://school.programmers.co.kr/learn/courses/15008/lessons/121686) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/pccp_1_4_%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C.py) | 🔥 | 
+| | 신입사원 교육 | 힙 | pccp | [문제](https://school.programmers.co.kr/learn/courses/15009/lessons/121688) | 풀이 | 🔥 |
+| 백준 | 최소힙 | 힙 | Silver2 | [문제](https://www.acmicpc.net/problem/1927) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%B5%9C%EC%86%8C%ED%9E%99.py) | 🔥 | 
 </details>
 
 <details>
 <summary><b>5. 해시 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 베스트앨범 | 해시 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) | 🔥 |
+| 프로그래머스 | 베스트앨범 | 해시 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.py) | 🔥 |
+| | 의상 | 해시 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%EC%8A%B5/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC(%ED%95%B4%EC%8B%9C%EB%A7%B5)/%EC%9D%98%EC%83%81.py) | 🔥 |
+| | 전화번호 목록 | 해시 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42577) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%EC%8A%B5/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC(%ED%95%B4%EC%8B%9C%EB%A7%B5)/%EC%9D%98%EC%83%81.py) | 🔥 |
+| | 할인 행사 | 해시 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py) | 🔥 | 
+| | 시소 짝꿍 | 해시 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 풀이() | 🔥 |
+| | 성격 유형 검사하기 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/mbti.py) | 🔥 | 
+| | 완주하지 못한 선수 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%EC%8A%B5/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC(%ED%95%B4%EC%8B%9C%EB%A7%B5)/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) | 🔥 | 
+| 백준 | 가희와 키워드 | 해시 | Silver3 | [문제](https://acmicpc.net/problem/22233) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EA%B0%80%ED%9D%AC%EC%99%80%ED%82%A4%EC%9B%8C%EB%93%9C.py) | 🔥 | 
 
 </details>
 
 <details>
 <summary><b>6. 탐색 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 합승 택시 요금 | 플로이드 워셜 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.py) | 🔥 |
+| 프로그래머스 | 합승 택시 요금 | 플로이드 워셜 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%95%A9%EC%8A%B9%ED%83%9D%EC%8B%9C%EC%9A%94%EA%B8%88.py) | 🔥 |
+| | 입국심사 | 이진탐색 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 풀이 | 🔥 |
+| | 피로도 | 완전탐색 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | 풀이 | 🔥 |
+| | 점찍기 | 완전탐색 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%A0%90%EC%B0%8D%EA%B8%B0.py) | 🔥 | 
 
 </details>
 
 <details>
 <summary><b>7. 백트래킹 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-||
+| 프로그래머스 | n-queen | 백트래킹 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12952) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/nqueen.py) | 🔥 |
 </details>
 
 <details>
 <summary><b>8. 재귀 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-||
+| 프로그래머스 | 하노이의 탑 | 재귀 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/hanoi_top.py) | 🔥 | 
 </details>
 
 <details>
 <summary><b>9. 문자열 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 가장 긴 팰린드롬 | 문자열 | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | 🔥 |
-
+| 프로그래머스 | 가장 긴 팰린드롬 | 문자열 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12904) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.py) | 🔥 |
+| | 문자열 압축 | 문자열 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/60057) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/12_%EA%B5%AC%ED%98%84/q10_stringCompress.py) | 🔥 | 
+| | 핸드폰 번호 가리기 | 연습문제 | lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12948) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/phoneNumber.py) | 🔥 | 
+| | 문자열을 정수로 바꾸기 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/stringToInt.py) | 🔥 |
+| | 숫자 문자열과 영단어 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/81301) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/numStrEng.py) | 🔥 | 
+| | 수박수박수박수박수박수? | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12922) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/watermelon.py) | 🔥 | 
+| | 크기가 작은 부분 문자열 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/147355) | [풀이](https://github.com/yougi8/CodingTestStudy/commit/90b7a8c7d2dd1e68dd9944a43c0fad10fad6c412) | 🔥 | 
+| | 둘만의 암호 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/155652) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/twoSecret.py) | 🔥 | 
+| | 가운데 글자 가져오기 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12903) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/getMid.py) | 🔥 |
+| | 가장 가까운 같은 글자 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/142086) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%EC%8A%B5/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC(%ED%95%B4%EC%8B%9C%EB%A7%B5)/%EA%B0%80%EC%9E%A5%EA%B0%80%EA%B9%8C%EC%9A%B4%EA%B0%99%EC%9D%80%EA%B8%80%EC%9E%90.py) | 🔥 | 
+| 백준 | 타노스 | 문자열 | Silver3 | [문제](https://www.acmicpc.net/problem/20310) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%ED%83%80%EB%85%B8%EC%8A%A4.py) | 🔥 | 
 </details>
 
 <details>
 <summary><b>10. DP </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 멀리 뛰기 | DP | 프로그래머스 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [풀이](https://github.com/yougi8/CodingTestStudy/commit/477a93dddc993cc220eb88348cb6a8576ffe78c0) | 🔥 |
-| 풍선 터트리기 | DP | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/68646) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%92%8D%EC%84%A0%ED%84%B0%EB%9C%A8%EB%A6%AC%EA%B8%B0.py) | 🔥 |
+| 프로그래머스 | 연속 펄스 부분 수열의 합 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%97%B0%EC%86%8D%ED%8E%84%EC%8A%A4%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py) | 🔥 |  
+| | 멀리 뛰기 | DP | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | [풀이](https://github.com/yougi8/CodingTestStudy/commit/477a93dddc993cc220eb88348cb6a8576ffe78c0) | 🔥 |
+| | 숫자 변환하기 | DP | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/154538) | 풀이 | 🔥 |
+| 백준 | 1로 만들기 | DP | Silver3 | [문제](https://www.acmicpc.net/problem/1463) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_makeOne.py) | 🔥 |
+| | 이친수 | DP | Silver3 | [문제](https://www.acmicpc.net/problem/2193) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_pinary.py) | 🔥 |
+| | 계단 오르기 | DP | Silver3 | [문제](https://www.acmicpc.net/problem/2579) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stairs.py) | 🔥 | 
+| | 돌 게임 | DP | Silver5 | [문제](https://www.acmicpc.net/problem/9655) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dp/dp_stone.py) | 🔥 | 
 </details>
 
 <details>
 <summary><b>11. 정렬 </b></summary>
 
-| 문제 이름 | 세부 유형 | 출처 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
-| 여행 경로 | DFS | 프로그래머스 | Lv3 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | 풀이 | 🔥 |
-
+| 백준 | 카드 정렬하기 | 정렬, 힙 | Gold4 | [문제](https://www.acmicpc.net/problem/1715) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/14_%EC%A0%95%EB%A0%AC/test_26_card.py) | 🔥 | 
 </details>
 
+<details>
+<summary><b>12. 스택/큐</b></summary>
 
-======================================
-### 사이트별 문제 정리
+| 출처 | 문제 이름 | 세부 유형 | 난이도 | 문제 | 풀이 | 풀이 횟수 |
+|:-----------------:|:------------:|:---------:|:----:|:-------:|:-------:|:--------:|
+| 프로그래머스 | 기능개발 | 스택/큐 | Lv2 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/42586) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/functionCreate.py) | 🔥 | 
+| | 햄버거 만들기 | 연습문제 | Lv1 | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/133502) | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/hamburger.py) | 🔥 | 
+</details>
+
+---
+### 📍 사이트별 문제 정리
 
 ### [🌐 프로그래머스](https://school.programmers.co.kr/learn/challenges?order=recent)
  <details>
@@ -190,12 +264,12 @@
 </div>
 </details>
 
----
+
 
 
 ### [💻 BaekJoon](https://www.acmicpc.net/)
 <details>
- <summary><b>📍GOLD</summary>
+ <summary><b>📍GOLD</b></summary>
  <div markdown="1">
   
 - Lv.3️⃣  
@@ -221,7 +295,7 @@
 
 - Lv.2️⃣
   - 1012 유기농 양배추 - [문제](https://www.acmicpc.net/problem/1012) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/dfs_bfs/dfs_cabbage_recursive.py)   
-  - 18352 특정 거리의 도시 찾기 - [문제](https://www.acmicpc.net/problem/18352) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/13_DFS%3ABFS/test_15_distanceCity.py)
+  - 18352 특정 거리의 도시 찾기 - [문제](https://www.acmicpc.net/problem/18352) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/%EC%9D%B4%EC%BD%94%ED%85%8C/%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/13_DFS_BFS/test_15_distanceCity.py)
   - 1927 최소힙 - [문제](https://www.acmicpc.net/problem/1927) / [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%B5%9C%EC%86%8C%ED%9E%99.py)
   - 11501 주식 - [문제](https://www.acmicpc.net/problem/11501)  [내 코드](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EC%A3%BC%EC%8B%9D.py)
   
@@ -256,7 +330,7 @@
   </div>
 </details>
 
----   
+
 
 ### [📗 이것이 취업을 위한 코딩 테스트다 with 파이썬](https://github.com/ndb796/python-for-coding-test)
 
