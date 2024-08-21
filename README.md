@@ -53,7 +53,7 @@
 
 | 출처 | 문제 이름 | 세부 유형 | 난이도 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:--------:|
-| 프로그래머스 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | BFS | Lv3 | 풀이 | 🔥 |
+| 프로그래머스 | [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189) | BFS | Lv3 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EA%B0%80%EC%9E%A5%EB%A8%BC%EB%85%B8%EB%93%9C.py) | 🔥🔥 |
 | | [여행 경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) | DFS | Lv3 | 풀이 | 🔥 |
 | | [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162) | DFS | Lv3 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/network.py) | 🔥 |
 | | [부대복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266) | BFS | Lv3 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80.py) | 🔥 |
@@ -98,6 +98,7 @@
 | | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127) | 해시 | Lv2 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC.py) | 🔥 | 
 | | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996) | 해시 | Lv2 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%9C%EC%86%8C%EC%A7%9D%EA%BF%8D.py) | 🔥 |
 | | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 해시, 구현, 문자열 | Lv2 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py) | 🔥 | 
+| | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 해시, 힙큐 | Lv2 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EA%B7%A4%EA%B3%A0%EB%A5%B4%EA%B8%B0.py) | 🔥 | 
 | | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 연습문제 | Lv1 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/mbti.py) | 🔥 | 
 | | [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | 연습문제 | Lv1 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%8B%A4%EC%8A%B5/%EB%94%95%EC%85%94%EB%84%88%EB%A6%AC(%ED%95%B4%EC%8B%9C%EB%A7%B5)/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98.py) | 🔥 | 
 | 백준 | [가희와 키워드](https://acmicpc.net/problem/22233) | 해시 | Silver3 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/%EC%BD%94%ED%85%8C%EB%AC%B8%EC%A0%9C%EC%A7%91/%EA%B0%80%ED%9D%AC%EC%99%80%ED%82%A4%EC%9B%8C%EB%93%9C.py) | 🔥 | 
@@ -130,6 +131,7 @@
 | 출처 | 문제 이름 | 세부 유형 | 난이도 | 풀이 | 풀이 횟수 |
 |:-----------------:|:------------:|:---------:|:----:|:-------:|:--------:|
 | 프로그래머스 | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946) | 재귀 | Lv2 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/hanoi_top.py) | 🔥 | 
+| | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | 재귀 | Lv2 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%9C%A0%EC%82%AC%EC%B9%B8%ED%86%A0%EC%96%B4%EB%B9%84%ED%8A%B8%EC%97%B4.py) | 🔥 | 
 </details>
 
 <details>
