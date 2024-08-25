@@ -5,7 +5,7 @@
 
 | 출처 | 문제 이름 | 세부 유형 | 난이도 | 풀이 | 풀이 횟수 |
 |:-------------------:|:-------------:|:-----------:|:----:|:-------:|:--------:|
-| 프로그래머스 | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 그리디 | Lv3 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | 🔥 |
+| 프로그래머스 | [단속 카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | 그리디 | Lv3 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py) | 🔥🔥 |
 | | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) | 그리디 | Lv2 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/%EC%A1%B0%EC%9D%B4%EC%8A%A4%ED%8B%B1.py) | 🔥 |
 | | [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | 연습문제 | Lv1 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/gymSuit.py) | 🔥 | 
 | 백준 | [행복 유치원](https://www.acmicpc.net/problem/13164) | 그리디 | Gold5 | [풀이](https://github.com/yougi8/CodingTestStudy/blob/main/Baekjoon/greedy/happyKinderGarden.py) | 🔥 | 
