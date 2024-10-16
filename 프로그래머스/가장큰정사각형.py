@@ -10,6 +10,6 @@ def solution(board):
             if board[i][j] == 1:
                 board[i][j] = min(board[i - 1][j - 1], board[i - 1][j], board[i][j - 1]) + 1
 
-    for i in range(n):
-        answer = max(answer, max(board[i]))
+    for i in board:
+        answer = max(answer, max(i))
     return answer ** 2
