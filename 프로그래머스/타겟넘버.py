@@ -1,4 +1,4 @@
-## 프로그래머스 - 타겟넘버 (dfs)
+## 프로그래머스 - 타겟넘버 (dfs) https://school.programmers.co.kr/learn/courses/30/lessons/43165
 def dfs(numbers, target, depth):
     global answer
     if depth == len(numbers):
@@ -18,3 +18,6 @@ def solution(numbers, target):
     dfs(numbers, target, 0)
 
     return answer
+
+## 문제 해설
+# recursion 지옥에 빠질 수도 있으니까 조심하기!
