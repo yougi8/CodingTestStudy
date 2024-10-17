@@ -31,3 +31,25 @@ solution([2, 3, -6, 1, 3, -1, 2, 4])
 # 누적합 & 부분합은 dp를 사용해야한다
 # 부분합 : 현재를 기준으로 이전 누적합(=부분합)을 포함시키는게 유리한지 아닌지 판단. 바로 이전 dp값만 판단하면 된다
 
+## 복습 후 코드 개선 (dp배열 따로 안 만들기)
+def solution(sequence):
+    ## step1. 펄스 수열 만들기
+    positive = []  # 1 -1 1 -1 배열
+    negative = []  # -1 1 -1 1 배열
+
+    flag = 1
+    for num in sequence:
+        positive.append(num * flag)
+        flag *= -1
+        negative.append(num * flag)
+
+        ## step2. 부분합 찾기
+    n = len(sequence)
+
+    # 현재 내 값 vs 내 값 + 앞의 값 합산  // 중에서 더 큰 값으로 업데이트하기 (dp)
+    for i in range(1, n):
+        positive[i] = max(positive[i - 1] + positive[i], positive[i])
+        negative[i] = max(negative[i - 1] + negative[i], negative[i])
+
+    return max(max(positive), max(negative))
+
